@@ -178,6 +178,9 @@ figure {
 img {
   vertical-align: middle;
   border-style: none;
+  padding:1px;
+  border:1px solid #021a40;
+  background-color:rgb(255, 255, 255);
 }
 
 svg:not(:root) {
